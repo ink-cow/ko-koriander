@@ -1,4 +1,4 @@
-- 🐮 Hi, this is Konstböcker @konstbocker
+- 🐮 Hi, this is Koriander @ko-koriander
 - 🧐 Sometimes known as Saeger Ryman
 - 🔥 Among other things
 - 🎨 I’m interested in posting art resources
