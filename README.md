@@ -1,4 +1,6 @@
-- 🐮 Hi, I’m @konstbocker sometimes known as Saeger Ryman
+- 🐮 Hi, this is Konstböcker @konstbocker
+- 🧐 Sometimes known as Saeger Ryman
+- 🔥 Among other things
 - 🎨 I’m interested in posting art resources
 - 🗯️ Mostly for writing and drawing comics
 - 🖌️ Particularly for the Krita art app
