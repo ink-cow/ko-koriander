@@ -1,4 +1,4 @@
-![Koriander](img/ko.png)
+![Koriander](img/ko.png)![Comics resources](img/comics.png)
 
 - 🐮 Hi, this is Koriander @ko-koriander
 - 🧐 Sometimes known as Saeger Ryman
