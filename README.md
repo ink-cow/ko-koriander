@@ -1,3 +1,5 @@
+![Koriander](img/ko.png)
+
 - 🐮 Hi, this is Koriander @ko-koriander
 - 🧐 Sometimes known as Saeger Ryman
 - 🔥 Among other things
